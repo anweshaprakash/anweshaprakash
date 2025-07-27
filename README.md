@@ -25,7 +25,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anweshaprakash&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anweshaprakash&theme=radical" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anweshaprakash&layout=compact&theme=radical" alt="langs" />
 </p>
