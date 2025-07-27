@@ -18,7 +18,7 @@
 
 ### 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,html,arduino,verilog,cpp,git,github,mysql,sqlite,linux,vscode"/>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,html,arduino,cpp,git,github,mysql,sqlite,linux,vscode"/>
 </p>
 
 ---
