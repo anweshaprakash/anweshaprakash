@@ -43,7 +43,7 @@
 
 ### ✨ Let's Connect!
 <p align="center">
-  <a href="www.linkedin.com/in/anwesha-prakash-914609254"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anwesha-prakash-914609254/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:anweshaprakash19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
